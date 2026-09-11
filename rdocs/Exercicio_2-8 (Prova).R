@@ -1,7 +1,7 @@
 #A Tabela 2.12 traz a descrição dos dados da aba dados do arquivo Car-ros.xlsx.21 
 #Esses dados são características de automóveis.
 
-library(tidyverse)
+library(tidyverse) 
 library(readxl)
 library(aplpack) #Pacote do gráfico Chernoff Faces
 library(lattice) #Pacote do gráfico Parallel plot
