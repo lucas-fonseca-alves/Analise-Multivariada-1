@@ -1,1 +1,1 @@
-Arquivos pertinentes para sua análise.
+Arquivos relativos as aulas de multivariada
